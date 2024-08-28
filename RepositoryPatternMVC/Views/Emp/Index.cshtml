@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<Emp>
+
+<h1>Index</h1>
+
+@if (TempData["msg"] != null)
+{
+    @TempData["msg"];
+}
+<hr />
+<form method="get" asp-action="SearchEmp" class="form-inline mb-3">
+    <div class="form-group">
+        <input type="text" name="searchTerm" class="form-control mr-2" placeholder="Search here" style="width: 200px;" />
+    </div>
+    <button type="submit" class="btn btn-sm btn-secondary mr-2">Search</button>
+    <button type="submit" name="backToList" value="true" class="btn btn-sm btn-secondary">Back to List</button>
+</form>
+
+<a asp-controller="Emp" asp-action="AddEmp" method="post" class="btn btn-info">Add New Employee</a>
+<br />
+<table border="1" class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Salary</td>
+                <td>
+                    <a asp-controller="Emp" asp-action="DeleteEmp" asp-route-id="@emp.Id" class="btn btn-danger">Delete</a>
+                    <a asp-controller="Emp" asp-action="EditEmp" asp-route-id="@emp.Id" class="btn btn-success">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\repo\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\repo\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\repo\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\repo\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\views\\emp\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\views\\emp\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|c:\\users\\rajesh narkar\\source\\repos\\repositorypatternmvc\\repositorypatternmvc\\repositorypatternmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{404DAC18-6476-412E-9462-39B324B2415B}|RepositoryPatternMVC\\RepositoryPatternMVC.csproj|solutionrelative:repositorypatternmvc\\repositorypatternmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Program.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:49:28.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Views\\Emp\\AddEmp.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Views\\Emp\\AddEmp.cshtml",
+              "RelativeToolTip": "RepositoryPatternMVC\\Views\\Emp\\AddEmp.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:17:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Views\\Emp\\EditEmp.cshtml",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Views\\Emp\\EditEmp.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Views\\Emp\\EditEmp.cshtml",
+              "RelativeToolTip": "RepositoryPatternMVC\\Views\\Emp\\EditEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:06:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:04:50.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Models\\Emp.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:54:31.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Repo\\EmpRepo.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Repo\\EmpRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Repo\\EmpRepo.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Repo\\EmpRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:06:40.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpService.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Repo\\EmpService.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Repo\\EmpService.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Repo\\EmpService.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Repo\\EmpService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:07:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "RepositoryPatternMVC\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:30:14.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:37:47.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\appsettings.json",
+              "RelativeToolTip": "RepositoryPatternMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T18:32:02.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RepositoryPatternMVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:47:24.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryPatternMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\RepositoryPatternMVC.csproj",
+              "RelativeDocumentMoniker": "RepositoryPatternMVC\\RepositoryPatternMVC.csproj",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\RepositoryPatternMVC\\RepositoryPatternMVC\\RepositoryPatternMVC.csproj",
+              "RelativeToolTip": "RepositoryPatternMVC\\RepositoryPatternMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T18:36:45.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
